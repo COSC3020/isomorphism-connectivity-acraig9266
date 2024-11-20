@@ -1,5 +1,6 @@
 # Plagiarism Statement
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
+
 https://cloudinary.com/guides/web-performance/4-ways-to-add-images-to-github-readme-1-bonus-method#:~:text=The%20easiest%20way%20to%20add,you%20want%20it%20to%20appear. used to learn how to put an image into the readme
 
 # Isomorphism
